@@ -1,10 +1,10 @@
 {
   "name": "short-url-frontend",
   "private": true,
-  "author": "mys1024",
-  "homepage": "https://short.1024.cab",
-  "license": "MIT",
   "packageManager": "pnpm@7.9.0",
+  "author": "mys1024",
+  "license": "MIT",
+  "homepage": "https://short.1024.cab",
   "scripts": {
     "build": "vite build",
     "dev": "vite --port 3333 --open",
