@@ -4,6 +4,7 @@
     container
     mx-auto
     p="x-4 y-10"
+    w="md:7/10 lg:3/5"
     text="center
     gray-700
     dark:gray-200"
